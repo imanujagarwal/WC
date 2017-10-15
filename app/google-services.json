@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "813225831813",
+    "firebase_url": "https://wittychat88.firebaseio.com",
+    "project_id": "wittychat88",
+    "storage_bucket": "wittychat88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813225831813:android:51f5f586aec0f670",
+        "android_client_info": {
+          "package_name": "com.google.firebase.wittychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813225831813-j83b8i9urp51rlr3hoalqpe51hco3954.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.wittychat",
+            "certificate_hash": "f22a790f3e30f4ef449b3a4f2f67f7219a493df0"
+          }
+        },
+        {
+          "client_id": "813225831813-19muse46k7n6hhub1d24i1oh8k0q5dhb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAifWLGkFenidK1eUtJUwkbwhyHZYTHgBU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813225831813-19muse46k7n6hhub1d24i1oh8k0q5dhb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
